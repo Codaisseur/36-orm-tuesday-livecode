@@ -13,7 +13,7 @@ What I'm going to do:
     - run the automatically generated migration code
     - invent some seed data, and seed the table
 
-3.  [ ] create a little API
+3.  [x] create a little API
 
     - create a simple express server
     - add an endpoint that selects all developers
