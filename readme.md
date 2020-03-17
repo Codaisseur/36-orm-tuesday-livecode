@@ -7,10 +7,10 @@ What I'm going to do:
     - initialize a sequelize project
     - configure the database credentials
 
-2.  [ ] the database schema and seed data
+2.  [x] the database schema and seed data
 
     - create a model ("developer")
-    - run the automatically generated migration
+    - run the automatically generated migration code
     - invent some seed data, and seed the table
 
 3.  [ ] create a little API
